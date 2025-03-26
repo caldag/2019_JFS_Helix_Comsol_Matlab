@@ -12,7 +12,7 @@ https://www.comsol.com/livelink-for-matlab
 
 This configuration allows building and running a COMSOL model directly from MATLAB.
 
-Note that the final versions of the code uploaded here could NOT be tested on Livelink, you may receive some errors.
+Note that the final versions of the codes uploaded here could NOT be tested on Livelink, you may receive some errors.
 
 Brief descriptions for the scripts are given below:
 
