@@ -12,6 +12,8 @@ https://www.comsol.com/livelink-for-matlab
 
 This configuration allows building and running a COMSOL model directly from MATLAB.
 
+Note that the final versions of the code uploaded here could NOT be tested on Livelink, you may receive some errors.
+
 Brief descriptions for the scripts are given below:
 
 - helical_swim_sim.m is the main script to be run. It sets up the model, runs FEM simulations
